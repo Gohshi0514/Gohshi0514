@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Followers](https://badgen.org/img/zenn/gohshi0514/followers?style=flat)](https://zenn.dev/gohshi0514)
+
 <a href="https://github-readme-stats.vercel.app/api?username=Gohshi0514&count_private=true&show_icons=true&hide=issues,contribs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gohshi0514&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
@@ -9,7 +11,7 @@
 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,git,github,githubactions,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,git,github,figma" />
 
 
 <!--
