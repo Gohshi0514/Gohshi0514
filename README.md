@@ -5,6 +5,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Gohshi0514&count_private=true&show_icons=true&hide=issues,contribs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gohshi0514&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gohshi0514&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gohshi0514&layout=compact" />
 </a>
