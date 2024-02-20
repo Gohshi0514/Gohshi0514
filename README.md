@@ -1,4 +1,4 @@
-### Hi 👋 I'm a budding engineer.
+### Hi 👋
 
 [![Followers](https://badgen.org/img/zenn/gohshi0514/followers?style=flat)](https://zenn.dev/gohshi0514)
 
