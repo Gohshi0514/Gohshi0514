@@ -8,7 +8,7 @@
 </p>
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,git,github,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,Astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,git,github,figma" />
 
 
 <!--
